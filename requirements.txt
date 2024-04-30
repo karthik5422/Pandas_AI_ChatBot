@@ -1,0 +1,11 @@
+openai
+pandas
+matplotlib
+pandasai
+langchain
+streamlit==1.28.2
+streamlit-chat
+python-dotenv
+python-docx
+openpyxl
+tabulate
